@@ -7,7 +7,8 @@ Email: weiruikuang@gmail.com
 ## Work Expriences
 
 * Machine Learning Engineer, June 2021 - Now, Alibaba DAMO Academy
-* Research Intern, April 2020 - June 2021, Alibaba Cloud
+* * Research Intern, April 2021 - April 2021, Alibaba DAMO Academy
+* Research Intern, April 2020 - April 2021, Alibaba Cloud
 
 ## Education
 
