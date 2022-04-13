@@ -1,6 +1,6 @@
 # 邝炜瑞, Weirui Kuang
 
-@ Alibaba Group @ DAMO ACADEMY
+@ ALIBABA GROUP @ DAMO ACADEMY
 
 Email: weiruikuang@gmail.com
 
