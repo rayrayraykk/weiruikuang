@@ -18,3 +18,9 @@ Email: weiruikuang@gmail.com
 ## Research Intersts 
 
 Graph Representation; Graph Neutral Network.
+
+## Publications
+
+### 2022
+
+* Xie, Yuexiang, Zhen Wang, Daoyuan Chen, Dawei Gao, Liuyi Yao, Weirui Kuang, Yaliang Li, Bolin Ding and Jingren Zhou. “FederatedScope: A Comprehensive and Flexible Federated Learning Platform via Message Passing.” (2022).
