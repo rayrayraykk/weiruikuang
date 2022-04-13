@@ -24,5 +24,5 @@ Graph Representation; Graph Neutral Network; Federated Learning.
 
 ### 2022
 
-* Xie, Yuexiang, Zhen Wang, Daoyuan Chen, Dawei Gao, Liuyi Yao, Weirui Kuang, Yaliang Li, Bolin Ding and Jingren Zhou. “FederatedScope: A Comprehensive and Flexible Federated Learning Platform via Message Passing.” (2022).
-* Zhen Wang, Weirui Kuang, Yuexiang Xie, Liuyi Yao, Yaliang Li, Bolin Ding, Jingren Zhou. “FederatedScope-GNN: Towards a Unified, Comprehensive and Efficient Package for Federated Graph Learning” (2022).
+* Xie, Yuexiang, Zhen Wang, Daoyuan Chen, Dawei Gao, Liuyi Yao, **Weirui Kuang**, Yaliang Li, Bolin Ding and Jingren Zhou. “FederatedScope: A Comprehensive and Flexible Federated Learning Platform via Message Passing.” (2022).
+* Zhen Wang, **Weirui Kuang**, Yuexiang Xie, Liuyi Yao, Yaliang Li, Bolin Ding, Jingren Zhou. “FederatedScope-GNN: Towards a Unified, Comprehensive and Efficient Package for Federated Graph Learning” (2022).
