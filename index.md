@@ -17,7 +17,7 @@ Email: weiruikuang@gmail.com
 
 ## Research Intersts 
 
-Graph Representation; Graph Neutral Network.
+Graph Representation; Graph Neutral Network; Federated Learning.
 
 ## Publications
 
