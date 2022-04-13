@@ -1,8 +1,9 @@
 # 邝炜瑞, Weirui Kuang
 
-@ Alibaba Group
+@ Alibaba Group @ DAMO ACADEMY
 
 Email: weiruikuang@gmail.com
+
 Semantic Scholar: www.semanticscholar.org/author/Weirui-Kuang/2162042348
 
 ## Work Expriences
