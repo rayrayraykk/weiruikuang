@@ -293,8 +293,7 @@
           {% for post in site.posts %}
             <li>
               <!--Why???-->
-              <p>{{ post.url }}</p>
-              <a href="https://rayrayraykk.github.io/weiruikuang{{ post.url }}">{{ post.title }}</a>
+              <a href="https://rayrayraykk.github.io/weiruikuang{{ post.url }}">{{post.date}}{{ post.title }}</a>
               <!--{{ post.excerpt }}-->
             </li>
           {% endfor %}
