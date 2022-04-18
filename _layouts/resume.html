@@ -243,7 +243,11 @@
         {% for publication in site.data.publications %}
         <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
           <h3 class="resume-item-title" itemprop="name">{{ publication.year }}</h3>
-          <h4 class="resume-item-details" itemprop="description">{{ publication.paper }}</h4>
+          <ul class="resume-item-list">
+              {% for paper in publication.papers %}
+              <li>{{ paper.paper }}</li>
+              {% endfor %}
+          </ul>
         </div><!-- end of resume-item -->
         {% endfor %}
 
