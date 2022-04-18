@@ -3,7 +3,8 @@ title: "Weirui Kuang's Homepage"
 description: "Learner."
 
 # Collections
-collections: posts
+collections:
+  - posts
 
 # Build settings
 markdown: kramdown
