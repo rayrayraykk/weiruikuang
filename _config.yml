@@ -2,6 +2,9 @@
 title: "Weirui Kuang's Homepage"
 description: "Learner."
 
+# Collections
+collections: posts
+
 # Build settings
 markdown: kramdown
 sass:
