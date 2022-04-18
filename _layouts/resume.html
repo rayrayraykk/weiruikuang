@@ -202,7 +202,7 @@
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Additional Links</h2>
+          <h2>Scholar Links</h2>
         </header>
 
         <div class="resume-item">
@@ -234,7 +234,7 @@
       {% endif %}
 
       {% if site.resume_section_publications %}
-      <!-- begin Experience -->
+      <!-- begin publications -->
       <section class="content-section">
 
         <header class="section-header">
@@ -248,6 +248,30 @@
             <ul class="resume-item-list">
               {% for paper in publication.papers %}
               <li>{{ paper.paper }}</li>
+              {% endfor %}
+            </ul>
+        </div><!-- end of resume-item -->
+        {% endfor %}
+
+      </section>
+      <!-- end Experience -->
+      {% endif %}
+
+      {% if site.resume_section_news %}
+      <!-- begin news -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>News</h2>
+        </header>
+
+        {% for news in site.data.news %}
+        <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+          <h3 class="resume-item-title" itemprop="name">{{ news.year }}</h3>
+          <p class="resume-item-copy" itemprop="description">
+            <ul class="resume-item-list">
+              {% for content in news.contents %}
+              <li>{{ content.content }}</li>
               {% endfor %}
             </ul>
         </div><!-- end of resume-item -->
