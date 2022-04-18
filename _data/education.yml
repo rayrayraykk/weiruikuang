@@ -1,12 +1,13 @@
 # Degree
-- degree: Postgrad.
-  uni: in School of Information, Renmin University of China
+- degree: Postgrad. in School of Information
+  uni: Renmin University of China
   year: 2018 &mdash; 2021
-  advisor: Zhewei Wei http://weizhewei.com/
+  advisor: Zhewei Wei
+  url: "http://weizhewei.com/"
 #  awards:
 #    - award: Summa Cumme Laude graduate
 #  summary: If you had any meaningful roles at college, feel free to write about them here
 
-- degree: B.S.
-  uni: in School of Information, Renmin University of China
+- degree: B.S. in School of Information
+  uni: Renmin University of China
   year: 2014 &mdash; 2018
