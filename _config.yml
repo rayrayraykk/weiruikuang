@@ -21,6 +21,7 @@ resume_contact_telephone:       "0"
 resume_contact_address:         "Hangzhou"
 
 resume_header_contact_info:     "E-mail: weiruikuang@gmail.com"
+orgnization:                    "@ALIBABA GROUP @DAMO ACADEMY"
 display_header_contact_info:    "true"
 
 resume_header_intro: "<p>Welcome to my homepage! Feel free to contact me at any time.</p>"
