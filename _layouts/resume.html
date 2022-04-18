@@ -292,8 +292,8 @@
           <ul class="resume-item-list">
           {% for post in site.posts %}
             <li>
-              <a href="{{ post.url }}">{{ post.title }}</a>
-              {{ post.excerpt }}
+              <a href="{{site.user_name}}/{{ post.url }}">{{ post.title }}</a>
+              <!--{{ post.excerpt }}-->
             </li>
           {% endfor %}
           </ul>

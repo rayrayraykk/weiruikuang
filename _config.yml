@@ -2,9 +2,8 @@
 title: "Weirui Kuang's Homepage"
 description: "Learner."
 
-# Collections
-#collections:
-#  - posts
+# Project name
+user_name: weiruikuang
 
 # Build settings
 markdown: kramdown
