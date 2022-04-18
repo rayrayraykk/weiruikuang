@@ -292,10 +292,9 @@
           <ul class="resume-item-list">
           {% for post in site.posts %}
             <li>
-              <a href="{{ site.user_name }}/{{ post.url }}">{{ post.title }}</a>
-              <a href="https://rayrayraykk.github.io/weiruikuang{{ post.url }}">https://rayrayraykk.github.io/weiruikuang{{ post.url }}</a>
-              <a href="{{ site.resume_website_url }}{{ post.url }}">{{ site.resume_website_url }}{{ post.url }}</a>
-              <a href="{{ site.resume_website_url }}{{ site.user_name }}{{ post.url }}">{{ site.resume_website_url }}{{ site.user_name }}{{ post.url }}</a>
+              <!--Why???-->
+              <p>{{ post.url }}</p>
+              <a href="https://rayrayraykk.github.io/weiruikuang{{ post.url }}">{{ post.title }}</a>
               <!--{{ post.excerpt }}-->
             </li>
           {% endfor %}
