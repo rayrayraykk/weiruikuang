@@ -27,6 +27,10 @@ DBLP: https://dblp.org/pid/318/1583.html
 
 Graph Representation; Graph Neutral Network; Federated Learning.
 
+## Blog
+
+(Coming SOON!)[]
+
 ## Publications
 
 ### 2021
