@@ -29,7 +29,7 @@ Graph Representation; Graph Neutral Network; Federated Learning.
 
 ## Blog
 
-(Coming SOON!)[https://rayrayraykk.github.io/weiruikuang/]
+[Coming SOON!](https://rayrayraykk.github.io/weiruikuang/)
 
 ## Publications
 
