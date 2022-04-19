@@ -1,5 +1,5 @@
 # Site settings
-title: "Weirui Kuang's Homepage"
+title: "邝炜瑞, Weirui Kuang's Homepage"
 description: "Learner."
 
 # Project name
@@ -13,7 +13,7 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Weirui Kuang"
+resume_name:                    "邝炜瑞, Weirui Kuang"
 resume_title:                   "Senior Machine Learning Engineer"
 
 # used for the contact button in _layouts/resume.html
