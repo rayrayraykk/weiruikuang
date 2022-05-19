@@ -1,7 +1,3 @@
-- year: 2021
-  papers:
-    - paper: "[Under Review]"
-  
 - year: 2022
   papers:
     - paper: "Xie, Yuexiang, Zhen Wang, Daoyuan Chen, Dawei Gao, Liuyi Yao, **Weirui Kuang**, Yaliang Li, Bolin Ding and Jingren Zhou. “FederatedScope: A Comprehensive and Flexible Federated Learning Platform via Message Passing.” (2022)."
