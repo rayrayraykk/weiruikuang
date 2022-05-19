@@ -1,3 +1,7 @@
 - year: 2022
   contents:
+    - content: "Congratulations! <FederatedScope-GNN: Towards a Unified, Comprehensive and Efficient Package for Federated Graph Learning> has been accepted by KDD!"
+
+- year: 2022
+  contents:
     - content: "March 30th: FederatedScope is open source now! Try at try.federatedscope.io!"
