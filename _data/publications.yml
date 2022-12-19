@@ -1,6 +1,6 @@
 - year: 2022
   papers:
     - paper: "(NeurIPS 2022)Daoyuan Chen, Dawei Gao, Weirui Kuang*, Yaliang Li, Bolin Ding. “pFL-Bench: A Comprehensive Benchmark for Personalized Federated Learning”"
-    - paper: "(2022) Xie, Yuexiang, Zhen Wang, Daoyuan Chen, Dawei Gao, Liuyi Yao, Weirui Kuang*, Yaliang Li, Bolin Ding and Jingren Zhou. “FederatedScope: A Comprehensive and Flexible Federated Learning Platform via Message Passing”"
+    - paper: "(VLDB 2022) Xie, Yuexiang, Zhen Wang, Dawei Gao, Daoyuan Chen, Liuyi Yao, Weirui Kuang*, Yaliang Li, Bolin Ding and Jingren Zhou. “FederatedScope: A Comprehensive and Flexible Federated Learning Platform via Message Passing”"
     - paper: "(KDD 2022, Best Paper) Zhen Wang, Weirui Kuang*, Yuexiang Xie, Liuyi Yao, Yaliang Li, Bolin Ding, Jingren Zhou. “FederatedScope-GNN: Towards a Unified, Comprehensive and Efficient Package for Federated Graph Learning”."
     - paper: "(KDD 2022)Zhen Wang, Yaliang Li, Zhewei Wei, Weirui Kuang*, Bolin Ding. “Graph Neural Networks with Node-wise Architecture”"
