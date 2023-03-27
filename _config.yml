@@ -27,7 +27,7 @@ resume_header_contact_info:     "E-mail: weiruikuang@gmail.com"
 orgnization:                    "@ALIBABA GROUP @DAMO ACADEMY"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>Welcome to my homepage! Feel free to contact me at any time.</p>"
+resume_header_intro: "<p>Welcome to my homepage! I am a researcher at DAMO Academy, Alibaba Group. I received the B.S. degree in Applied Mathematics and M.E. degree in Computer Applications Technology from Renmin University of China in 2018 and 2021, respectively. My research interests include graph representation learning and federated learning. I have published several papers in KDD, NeurIPS, VLDB and served as the reviewer for top-tier conferences such as KDD, NeurIPS, ICML, and WWW.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
